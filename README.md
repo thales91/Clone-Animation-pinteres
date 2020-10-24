@@ -2,7 +2,7 @@
 
 Exemplo de clone animação da UI do pinterest 
 
-img('/img/pinterest.gif')
+img('img/pinterest.gif')
 
 
 - ✔ HTML
